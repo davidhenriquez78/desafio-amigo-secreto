@@ -21,7 +21,7 @@ Tareas específicas:
 //////////////////////////
 Implementa una función para actualizar la lista de amigos
 
-Crea una función que recorra el array amigos y agregue cada nombre como un elemento <li> dentro de una lista HTML. Usa innerHTML para limpiar la lista antes de agregar nuevos elementos.
+Crea una función que recorra el array amigos y agregue cada nombre como un elemento li dentro de una lista HTML. Usa innerHTML para limpiar la lista antes de agregar nuevos elementos.
 
 Tareas específicas:
 
@@ -29,7 +29,7 @@ Tareas específicas:
 
 2-Limpiar la lista existente: Establecer lista.innerHTML = "" para asegurarse de que no haya duplicados al actualizar.
 
-3-Iterar sobre el arreglo: Usa un bucle for para recorrer el arreglo amigos y crear elementos de lista (<li>) para cada título.
+3-Iterar sobre el arreglo: Usa un bucle for para recorrer el arreglo amigos y crear elementos de lista li para cada título.
 
 4-Agregar elementos a la lista: Para cada amigo, crear un nuevo elemento de lista.
 
